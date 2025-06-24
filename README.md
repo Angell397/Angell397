@@ -1,8 +1,7 @@
 # Hola, soy Angel Amaya👋
+![20250617_1807_Nuevo Diseño Programador_remix_01jxza759xe4jry6hxt00m7ma8](https://github.com/user-attachments/assets/d73c7405-71b6-400a-9fe8-11d7daebfa6e)
 
 <h1 align="center">Github Metrics </h1><p align="center">
-<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Angell397&theme=github_dark" />
-</p>
 
 <p align="center">
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=angell397&theme=tokyonight_duo&hide_border=true"
